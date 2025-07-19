@@ -1,0 +1,75 @@
+{
+    "name": "SALE SAI SANNIDH",
+    "contact": {
+      "phone": "9390426680",
+      "email": "saisannidh5@gmail.com",
+      "address": "Narayanakhed, Telangana 502265"
+    },
+    "skills": [
+      "C and C++ programming",
+      "Java and Python development",
+      "Web technologies (HTML, CSS, JavaScript)",
+      "Database management systems",
+      "Problem solving and critical thinking",
+      "Computer vision with YOLOv8 and OpenCV",
+      "Flask framework expertise",
+      "Cloud platform proficiency",
+      "Linux (Ubuntu) skills",
+      "Automation and deployment strategies",
+      "Audio signal processing"
+    ],
+    "projects": [
+      {
+        "title": "Real-time weapon detection system using YOLOv8 and Google Cloud",
+        "description": [
+          "Developed a YOLOv8-based system for real-time weapon detection using a local camera and a cloud-hosted model.",
+          "Deployed the model on a Google Cloud VM, with dataset and weight management via GCP buckets.",
+          "Enabled full-frame detection with YOLOv8-formatted annotations, and automated training with new data uploads.",
+          "Achieved seamless real-time inference using direct IP communication over a Flask backend, no REST API."
+        ]
+      },
+      {
+        "title": "Hybrid audio steganography with LSB and phase coding techniques",
+        "description": [
+          "Developed a hybrid audio steganography system using LSB and phase coding methods for secure message embedding and retrieval in audio files.",
+          "Designed a GUI interface for encoding and decoding messages, including robust error handling for edge cases like short audio files and incorrect passwords.",
+          "Conducted extensive testing, including quality analysis (PSNR, SNR), and ensured system reliability through comprehensive error management and validation."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor Of Technology",
+        "field": "Computer Science and Engineering",
+        "institution": "Mahatma Gandhi Institute of Technology, Hyderabad",
+        "date": "01/2025",
+        "GPA": "CGPA-7.3"
+      },
+      {
+        "degree": "Intermediate",
+        "field": "MPC Stream",
+        "institution": "Sri Chaitanya Junior College",
+        "date": "01/2021",
+        "GPA": "Percentage-96"
+      },
+      {
+        "degree": "Secondary Education (SSC)",
+        "institution": "Sri Chaitanya High School",
+        "date": "01/2019",
+        "GPA": "CGPA-10.0"
+      }
+    ],
+    "websites": [
+      "https://www.linkedin.com/in/sale-sai-sannidh-131289281/",
+      "https://github.com/saisannidh1"
+    ],
+    "certifications": [
+      {
+        "title": "Programming Essential in Python",
+        "date": "08/23",
+        "institution": "Cisco Networking Academy",
+        "description": "Successfully completed the Python programming course offered by Cisco Networking Academy. Acquired practical skills in Python programming, awarded a certificate for proficiency in Python programming."
+      }
+    ]
+  }
+  
